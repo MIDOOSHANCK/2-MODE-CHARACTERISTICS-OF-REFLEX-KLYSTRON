@@ -80,7 +80,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 <img width="611" height="798" alt="exp 2-2" src="https://github.com/user-attachments/assets/819511ca-92c8-4fb7-a220-0a282518d3c3" />
 
 
-    **Result:**
+**Result:**
    	The mode characteristics of the Reflex Klystron were successfully studied. The Electronic Tuning Range (ETR) was found to be about 150 MHz, and the Electronic Tuning Sensitivity (ETS) was about 7.5 MHz/V. Thus, the klystron effectively demonstrated electronic tuning using velocity modulation.
 			
 			
