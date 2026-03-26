@@ -65,7 +65,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 3.	ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
 
 **Precautions:**
-
+ 
 4.	Check the connections before switching on the kit.
 5.	Keep all the knobs in minimum position before going to switch ‘ON’ the powersupply of VSWR / Klystron power supplies.
 6.	Note: For klystron power supply “HT” should be ‘OFF’ before switching ‘ON’the main supply.
